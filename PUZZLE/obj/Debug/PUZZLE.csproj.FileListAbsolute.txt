@@ -1,0 +1,60 @@
+C:\Users\trann\Desktop\PUZZLE\PUZZLE\bin\Debug\PUZZLE.exe.config
+C:\Users\trann\Desktop\PUZZLE\PUZZLE\bin\Debug\PUZZLE.exe
+C:\Users\trann\Desktop\PUZZLE\PUZZLE\bin\Debug\PUZZLE.pdb
+C:\Users\trann\Desktop\PUZZLE\PUZZLE\obj\Debug\PUZZLE.csprojAssemblyReference.cache
+C:\Users\trann\Desktop\PUZZLE\PUZZLE\obj\Debug\PUZZLE.Form1.resources
+C:\Users\trann\Desktop\PUZZLE\PUZZLE\obj\Debug\PUZZLE.Properties.Resources.resources
+C:\Users\trann\Desktop\PUZZLE\PUZZLE\obj\Debug\PUZZLE.csproj.GenerateResource.cache
+C:\Users\trann\Desktop\PUZZLE\PUZZLE\obj\Debug\PUZZLE.csproj.CoreCompileInputs.cache
+C:\Users\trann\Desktop\PUZZLE\PUZZLE\obj\Debug\PUZZLE.exe
+C:\Users\trann\Desktop\PUZZLE\PUZZLE\obj\Debug\PUZZLE.pdb
+C:\Users\trann\Documents\GitHub\Doan\PUZZLE\PUZZLE\bin\Debug\PUZZLE.exe.config
+C:\Users\trann\Documents\GitHub\Doan\PUZZLE\PUZZLE\bin\Debug\PUZZLE.exe
+C:\Users\trann\Documents\GitHub\Doan\PUZZLE\PUZZLE\bin\Debug\PUZZLE.pdb
+C:\Users\trann\Documents\GitHub\Doan\PUZZLE\PUZZLE\obj\Debug\PUZZLE.csprojAssemblyReference.cache
+C:\Users\trann\Documents\GitHub\Doan\PUZZLE\PUZZLE\obj\Debug\PUZZLE.Form1.resources
+C:\Users\trann\Documents\GitHub\Doan\PUZZLE\PUZZLE\obj\Debug\PUZZLE.Properties.Resources.resources
+C:\Users\trann\Documents\GitHub\Doan\PUZZLE\PUZZLE\obj\Debug\PUZZLE.csproj.GenerateResource.cache
+C:\Users\trann\Documents\GitHub\Doan\PUZZLE\PUZZLE\obj\Debug\PUZZLE.csproj.CoreCompileInputs.cache
+C:\Users\trann\Documents\GitHub\Doan\PUZZLE\PUZZLE\obj\Debug\PUZZLE.exe
+C:\Users\trann\Documents\GitHub\Doan\PUZZLE\PUZZLE\obj\Debug\PUZZLE.pdb
+C:\Users\trann\Desktop\TranNguyenTai_NguyenTienThanh\Source code\PUZZLE\PUZZLE\bin\Debug\PUZZLE.exe.config
+C:\Users\trann\Desktop\TranNguyenTai_NguyenTienThanh\Source code\PUZZLE\PUZZLE\bin\Debug\PUZZLE.exe
+C:\Users\trann\Desktop\TranNguyenTai_NguyenTienThanh\Source code\PUZZLE\PUZZLE\bin\Debug\PUZZLE.pdb
+C:\Users\trann\Desktop\TranNguyenTai_NguyenTienThanh\Source code\PUZZLE\PUZZLE\obj\Debug\PUZZLE.csprojAssemblyReference.cache
+C:\Users\trann\Desktop\TranNguyenTai_NguyenTienThanh\Source code\PUZZLE\PUZZLE\obj\Debug\PUZZLE.Form1.resources
+C:\Users\trann\Desktop\TranNguyenTai_NguyenTienThanh\Source code\PUZZLE\PUZZLE\obj\Debug\PUZZLE.Properties.Resources.resources
+C:\Users\trann\Desktop\TranNguyenTai_NguyenTienThanh\Source code\PUZZLE\PUZZLE\obj\Debug\PUZZLE.csproj.GenerateResource.cache
+C:\Users\trann\Desktop\TranNguyenTai_NguyenTienThanh\Source code\PUZZLE\PUZZLE\obj\Debug\PUZZLE.csproj.CoreCompileInputs.cache
+C:\Users\trann\Desktop\TranNguyenTai_NguyenTienThanh\Source code\PUZZLE\PUZZLE\obj\Debug\PUZZLE.exe
+C:\Users\trann\Desktop\TranNguyenTai_NguyenTienThanh\Source code\PUZZLE\PUZZLE\obj\Debug\PUZZLE.pdb
+D:\TranNguyenTai_NguyenTienThanh\Source code\PUZZLE\PUZZLE\bin\Debug\PUZZLE.exe.config
+D:\TranNguyenTai_NguyenTienThanh\Source code\PUZZLE\PUZZLE\bin\Debug\PUZZLE.exe
+D:\TranNguyenTai_NguyenTienThanh\Source code\PUZZLE\PUZZLE\bin\Debug\PUZZLE.pdb
+D:\TranNguyenTai_NguyenTienThanh\Source code\PUZZLE\PUZZLE\obj\Debug\PUZZLE.Form1.resources
+D:\TranNguyenTai_NguyenTienThanh\Source code\PUZZLE\PUZZLE\obj\Debug\PUZZLE.Properties.Resources.resources
+D:\TranNguyenTai_NguyenTienThanh\Source code\PUZZLE\PUZZLE\obj\Debug\PUZZLE.csproj.GenerateResource.cache
+D:\TranNguyenTai_NguyenTienThanh\Source code\PUZZLE\PUZZLE\obj\Debug\PUZZLE.csproj.CoreCompileInputs.cache
+D:\TranNguyenTai_NguyenTienThanh\Source code\PUZZLE\PUZZLE\obj\Debug\PUZZLE.exe
+D:\TranNguyenTai_NguyenTienThanh\Source code\PUZZLE\PUZZLE\obj\Debug\PUZZLE.pdb
+D:\TranNguyenTai_NguyenTienThanh\Source code\PUZZLE\PUZZLE\obj\Debug\PUZZLE.csprojAssemblyReference.cache
+D:\Puzzle\Source code\PUZZLE\PUZZLE\bin\Debug\PUZZLE.exe.config
+D:\Puzzle\Source code\PUZZLE\PUZZLE\bin\Debug\PUZZLE.exe
+D:\Puzzle\Source code\PUZZLE\PUZZLE\bin\Debug\PUZZLE.pdb
+D:\Puzzle\Source code\PUZZLE\PUZZLE\obj\Debug\PUZZLE.csprojAssemblyReference.cache
+D:\Puzzle\Source code\PUZZLE\PUZZLE\obj\Debug\PUZZLE.Form1.resources
+D:\Puzzle\Source code\PUZZLE\PUZZLE\obj\Debug\PUZZLE.Properties.Resources.resources
+D:\Puzzle\Source code\PUZZLE\PUZZLE\obj\Debug\PUZZLE.csproj.GenerateResource.cache
+D:\Puzzle\Source code\PUZZLE\PUZZLE\obj\Debug\PUZZLE.csproj.CoreCompileInputs.cache
+D:\Puzzle\Source code\PUZZLE\PUZZLE\obj\Debug\PUZZLE.exe
+D:\Puzzle\Source code\PUZZLE\PUZZLE\obj\Debug\PUZZLE.pdb
+C:\Users\TNT\Desktop\PUZZLE\PUZZLE\bin\Debug\PUZZLE.exe.config
+C:\Users\TNT\Desktop\PUZZLE\PUZZLE\bin\Debug\PUZZLE.exe
+C:\Users\TNT\Desktop\PUZZLE\PUZZLE\bin\Debug\PUZZLE.pdb
+C:\Users\TNT\Desktop\PUZZLE\PUZZLE\obj\Debug\PUZZLE.csprojAssemblyReference.cache
+C:\Users\TNT\Desktop\PUZZLE\PUZZLE\obj\Debug\PUZZLE.Form1.resources
+C:\Users\TNT\Desktop\PUZZLE\PUZZLE\obj\Debug\PUZZLE.Properties.Resources.resources
+C:\Users\TNT\Desktop\PUZZLE\PUZZLE\obj\Debug\PUZZLE.csproj.GenerateResource.cache
+C:\Users\TNT\Desktop\PUZZLE\PUZZLE\obj\Debug\PUZZLE.csproj.CoreCompileInputs.cache
+C:\Users\TNT\Desktop\PUZZLE\PUZZLE\obj\Debug\PUZZLE.exe
+C:\Users\TNT\Desktop\PUZZLE\PUZZLE\obj\Debug\PUZZLE.pdb
